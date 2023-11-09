@@ -29,6 +29,7 @@ const styles = StyleSheet.create({
 
     container:{
         marginBottom:10,
+        // width:1500
      
     },
     title: {

@@ -17,6 +17,7 @@ import {
   useColorScheme,
   View,
 } from 'react-native';
+//import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
 import SearchScreens from './src/screens/SearchScreens';
 
 const Stack = createNativeStackNavigator();

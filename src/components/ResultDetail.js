@@ -26,8 +26,9 @@ const styles = StyleSheet.create({
   },
   name:{
 
-    fontWeight: 'bold',
 
+    fontFamily:'Alata',
+    fontWeight:'bold'
 
   },
 
