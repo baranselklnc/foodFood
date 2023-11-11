@@ -2,13 +2,17 @@ import { StyleSheet, Text, View, TextInput } from 'react-native';
 import React from 'react';
 import Entypo from "react-native-vector-icons/Entypo"
 
-export default function SearchBar() {
+export default function SearchBar({term,onTermChange,onTermSubmit}) {
   return (
     <View style={styles.backGroudStyle}>
 
       <Entypo style={styles.iconStyle} name="magnifying-glass" size={30} onPress={() => { //
       }} />
-      <TextInput placeholder='Yaprak Döner'
+      <TextInput
+      onChangeText={onTermChange}
+      onEndEditing={onTermSubmit}
+      value={term}
+      placeholder='Yaprak Döner'
         autoCorrect={false}
         style={styles.inputStyle} />
     </View>
@@ -25,6 +29,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     borderRadius: 50,
   },
+  
   iconStyle: {
     marginHorizontal: 15,
   },
