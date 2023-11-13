@@ -33,5 +33,8 @@ yarn start
 After following these steps, the application should start, and a QR code should appear in the browser window. Scan this QR code with
  a QR code reader app to test the application on your real device.
 
-[Food & Food app screen record] (https://youtube.com/shorts/wX7YXu9Nl1A)
+
+
+<a href="https://youtube.com/shorts/wX7YXu9Nl1A">Visit W3Schools.com!</a>
+
 
