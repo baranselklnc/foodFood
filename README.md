@@ -34,7 +34,7 @@ After following these steps, the application should start, and a QR code should 
  a QR code reader app to test the application on your real device.
 
 ```
-  <a href='https://youtube.com/shorts/wX7YXu9Nl1A' target='_blank' >Food & Food app screen record!</a>
+  <a href='https://youtube.com/shorts/wX7YXu9Nl1A' target='_blank' >FOOD & FOOD APP SCREEN RECORD!</a>
 
 
 
