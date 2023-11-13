@@ -35,6 +35,6 @@ After following these steps, the application should start, and a QR code should 
 
 
 
-<a href="https://youtube.com/shorts/wX7YXu9Nl1A">Visit W3Schools.com!</a>
+<a href="https://youtube.com/shorts/wX7YXu9Nl1A">Food & Food app screen record!</a>
 
 
